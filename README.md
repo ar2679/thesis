@@ -60,3 +60,5 @@ if __name__ == "__main__":
 To obtain run statistics and generate all supporting tables and visualisations:
 - Open the `Dissertation outputs.ipynb` notebook
 - Execute the cells one by one to process the outputs and reproduce the dissertation's figures and tables
+
+PLEASE NOTE that for legal reasons, the input data had been removed. However, historical stock data can be obtained using services e.g. Yahoo Finance. List of stocks (tickers) used in the project: AXP, AAPL, VZ, BA, CAT, JPM, CVX, KO, DIS, DD, XOM, HD, INTC, IBM, JNJ, MCD, MRK, MMM, NKE, PFE, PG, UNH, RTX, WMT, WBA, MSFT, CSCO, TRV, GS, V
