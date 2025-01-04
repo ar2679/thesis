@@ -1,9 +1,12 @@
 
 MSc in Artificial Intelligence, University of Bath
+
 Dissertation: A Comparative Analysis of Multi-Layer Perceptron Configurations in Actor-Critic Reinforcement Learning for Portfolio Optimisation
 
 The codebase is based on the following work:
 https://github.com/AI4Finance-Foundation/FinRL-Trading/tree/master/old_repo_ensemble_strategy
+
+[Accessed 4th Jan 2025]
 
 Corresponding research paper:
 Yang, H., Liu, X.Y., Zhong, S. and Walid, A., 2020, October. Deep reinforcement learning for automated stock trading: An ensemble strategy. In Proceedings of the first ACM international conference on AI in finance (pp. 1-8).
@@ -13,9 +16,9 @@ Please consult with the LICENSE file before use
 
 INSTRUCTIONS:
 -------------
-This repository contains the code required to reproduce the results and visualisations presented in the dissertation
-Please consult with the `requirements.txt` file for the necessary Python packages to be installed; note that it needs to run on Python 3.6 or earlier
-It comprises three key components: a script for running single model simulations, another for ensemble simulations, and a Jupyter notebook for processing outputs and generating figures and tables
+- This repository contains the code required to reproduce the results and visualisations presented in the dissertation
+- Please consult with the `requirements.txt` file for the necessary Python packages to be installed; note that it needs to run on Python 3.6 or earlier
+- It comprises three key components: a script for running single model simulations, another for ensemble simulations, and a Jupyter notebook for processing outputs and generating figures and tables
 
 1. Running a Single Model
 To run a single model:
